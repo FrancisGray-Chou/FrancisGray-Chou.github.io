@@ -1,4 +1,7 @@
 # Francis Gray's Blog
+---
+layout: default
+---
 
 欢迎来到 **Francis Gray 的个人博客仓库**。
 
