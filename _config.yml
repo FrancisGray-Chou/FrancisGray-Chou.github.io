@@ -2,7 +2,7 @@ title: Francis Gray
 description: Technical Blog & Random Thoughts
 author: Francis Gray
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 
 markdown: kramdown
 highlighter: rouge
