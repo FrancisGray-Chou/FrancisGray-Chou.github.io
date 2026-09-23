@@ -2,7 +2,7 @@ title: Francis Gray
 description: Technical Blog & Random Thoughts
 author: Francis Gray
 
-theme: Cayman
+remote_theme: pages-themes/cayman@v0.2.0
 
 markdown: kramdown
 highlighter: rouge
@@ -12,3 +12,4 @@ permalink: /:categories/:year/:month/:day/:title/
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-remote-theme
